@@ -1,5 +1,7 @@
 [![Good day to you](/assets/images/banner.png)](https://github.com/wolfZX)
 
+![My GitHub Game](game.gif)
+
 <!--
 **wolfZX/wolfZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
